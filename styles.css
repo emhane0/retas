@@ -1,0 +1,27 @@
+*
+{
+    font-size: 1em; 
+    font-family: arial;
+    background-color: #bae5f4;
+}
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    color: #031163;
+    text-decoration: line-through;
+}
+#log
+{
+    text-align: center;
+}
+footer
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color:#bae5f4;
+  text-align: center;
+}
